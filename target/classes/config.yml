@@ -1,0 +1,14 @@
+---
+# Opens the last window when something has been purchased.
+openLastWindow: true
+
+# Here you can find all messages from the Bedwars plugin.
+messages:
+  form:
+    categories:
+      title: "Bedwars Shop"
+  inv-full: "Your inventory is full."
+  not-enough-bronze: "You don't have enough bronze."
+  not-enough-iron: "You don't have enough iron."
+  not-enough-gold: "You don't have enough gold."
+...

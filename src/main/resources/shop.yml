@@ -1,0 +1,18 @@
+---
+# Name
+categories:
+  - "Blocks"
+  - "Weapons"
+
+# Name:ID:DAMAGE:COUNT:Material:Material-Count:EnchantmentID#Level,EnchantmentID#Level,...
+# Material:
+# b = Bronze
+# i = Iron
+# g = Gold
+Blocks:
+  - "Stone:1:0:1:b:1"
+  - "Grass:2:0:1:b:1"
+Weapons:
+  - "Stick:280:0:1:b:1:12#1"
+  - "Bow:261:0:1:b:1"
+...
